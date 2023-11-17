@@ -199,6 +199,8 @@ better, faster work happens._
 
 10.1 **[BrainAI Imagica: https://get.imagica.ai](https://get.imagica.ai)** - **_Free_** - _BUILD A NO-CODE AI APP IN MINUTES._
 
+**[Soffos.ai API AI Platform: https://www.soffos.ai] (https://www.soffos.ai)** - **_Free_** - **_Paid_** - _MODULAR AI APIS THAT DO NOT NEED PROMPTING AND ARE OPTIMIZED FOR BEST RESULTS. WITH SDK FOR [PYTHON](https://github.com/Soffos-Inc/soffosai-python) AND [JAVASCRIPT](https://github.com/Soffos-Inc/soffosai-js) _
+
 ### 11. AI AutoGPT (Official)
 
 11.1 **[Auto-GPT: https://github.com/Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)** - **_Free_** - _An experimental open-source attempt to make GPT-4 fully autonomous._
